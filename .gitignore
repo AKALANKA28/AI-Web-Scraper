@@ -1,0 +1,39 @@
+# Python __pycache__ and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environment
+venv/
+env/
+ai/
+
+# Environment Variables
+.env
+*.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Selenium WebDriver downloads
+chromedriver
+chromedriver.exe
+
+# Scraped data / temp files (customize this if you use specific folders)
+tmp/
+output/
