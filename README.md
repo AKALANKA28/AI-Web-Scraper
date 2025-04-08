@@ -28,6 +28,7 @@ This project is an advanced, AI-enhanced web scraping tool built using **Seleniu
 ```bash
 .
 ├── main.py                # Streamlit entry point
+├── parse.py
 ├── scrape.py              # Core scraping logic
 ├── .env                   # Environment variables (not committed)
 ├── requirements.txt       # Python dependencies
